@@ -16,3 +16,7 @@ Output:
 1) "DEGs_within_operons.csv" table contains the operon IDs with assigned metrics (mean, SD, median, IQR) calculated for Log2FC values of DEGs located within a particular operon.
 
 2) "DEGs_within_operons.png" boxplot reflects median level and corresponding IQR value of DEGs located within each operon.
+
+Email:	rimgubaev@gmail.com
+
+Literature: Gorshkov, V., Gubaev, R., Petrova, O., Daminova, A., Gogoleva, N., Ageeva, M., ... & Gogolev, Y. (2018). Transcriptome profiling helps to identify potential and true molecular switches of stealth to brute force behavior in Pectobacterium atrosepticum during systemic colonization of tobacco plants. European Journal of Plant Pathology, 1-20. (https://doi.org/10.1007/s10658-018-1496-6)
