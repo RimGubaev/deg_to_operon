@@ -1,5 +1,5 @@
 # DEGs_to_operons.r
-# Rim Gubaev, 2017
+Rim Gubaev, 2017
 
 "DEGs_to_operons.r" script performs classification of differentially expresed genes (DEGs) into operons and counting for DEGs located within operons the following metrics: mean, SD, median, IQR. The Log2FC values are used in order to estimate abovementioned metrics. This script also allows visualization of differentially expressed genes located within operons as boxplot.
 
