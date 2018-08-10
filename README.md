@@ -23,4 +23,5 @@ Boxplot example:
 
 Email:	rimgubaev@gmail.com
 
-Literature: [Gorshkov, V., Gubaev, R., Petrova, O., Daminova, A., Gogoleva, N., Ageeva, M., ... & Gogolev, Y. (2018). Transcriptome profiling helps to identify potential and true molecular switches of stealth to brute force behavior in Pectobacterium atrosepticum during systemic colonization of tobacco plants. European Journal of Plant Pathology, 1-20.](https://doi.org/10.1007/s10658-018-1496-6)
+Literature:
+[Gorshkov, V., Gubaev, R., Petrova, O., Daminova, A., Gogoleva, N., Ageeva, M., ... & Gogolev, Y. (2018). Transcriptome profiling helps to identify potential and true molecular switches of stealth to brute force behavior in Pectobacterium atrosepticum during systemic colonization of tobacco plants. European Journal of Plant Pathology, 1-20.](https://doi.org/10.1007/s10658-018-1496-6)
