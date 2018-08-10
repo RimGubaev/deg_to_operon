@@ -18,7 +18,8 @@ Output:
 2) "DEGs_within_operons.png" boxplot reflects median level and corresponding IQR value of DEGs located within each operon.
 
 Boxplot example:
-![](https://github.com/RimGubaev/deg_to_operon/blob/master/DEGs_within_operons.png)
+
+![Boxplot example](https://github.com/RimGubaev/deg_to_operon/blob/master/DEGs_within_operons.png)
 
 Email:	rimgubaev@gmail.com
 
