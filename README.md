@@ -19,7 +19,7 @@ Output:
 
 Boxplot example:
 
-![Boxplot example](https://github.com/RimGubaev/deg_to_operon/blob/master/DEGs_within_operons.png)
+![](https://github.com/RimGubaev/deg_to_operon/blob/master/DEGs_within_operons.png)
 
 Email:	rimgubaev@gmail.com
 
